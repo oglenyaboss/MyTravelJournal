@@ -1,0 +1,27 @@
+header{
+    width: 550px;
+    height: 55px;
+    flex-shrink: 0;
+    background: #F55A5A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 45px;
+}
+
+header img{
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+header h1{
+    color: #FFF;
+    font-family: Inter, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -1.085px;
+    margin: 7px;
+}
