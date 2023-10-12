@@ -28,5 +28,16 @@ export default [
         endDate: "10 August, 2013",
         description: "The Egyptian pyramids are ancient masonry structures located in Egypt. Sources cite at least 118 identified \"Egyptian\" pyramids.[1][2] Approximately 80 pyramids were built within the Kingdom of Kush, now located in the modern country of Sudan.",
         imageUrl: "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg"
+    },
+    {
+        id: 4,
+        title: "Kaz country",
+        location: "Russia, Kuzbass",
+        googleMapsUrl: "https://maps.app.goo.gl/5tWwdBCyRgCdaDYe9",
+        startDate: "06 Dec 2003",
+        endDate: "XX May, 2012",
+        description: "Kaz is an urban-type settlement in the Tashtagol district of the Kemerovo region of Russia. The administrative center of the Kaz urban settlement. Population - 4063 people.",
+        imageUrl: "https://komandirovka.ru/upload/iblock/848/8480ea1aa1cff1400d45e603c5a299d3.jpg"
     }
+
 ]
